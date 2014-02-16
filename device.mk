@@ -18,7 +18,7 @@
 $(call inherit-product-if-exists, vendor/samsung/jfltei337/jfltei337-vendor.mk)
 
 ## device overlays
-DEVICE_PACKAGE_OVERLAYS += device/samsung/jfltei337/overlay
+DEVICE_PACKAGE_OVERLAYS += device/samsung/jfltecan/overlay
 ## common overlays
 DEVICE_PACKAGE_OVERLAYS += device/samsung/jf-common/overlay-gsm
 
